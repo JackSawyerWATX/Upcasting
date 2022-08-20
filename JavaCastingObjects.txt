@@ -1,0 +1,11 @@
+				+-~-~-~-~-~-~-~-~-~-~-+
+				|==>Casting Objects<==|
+				+~-~-~-~-~-~-~-~-~-~-~+
+
+Casting Objects is similar to casting variables; however, we are dealing with Inheritance. In order to cast an object, it has to be a subclass of the parent.
+
+Object types casting is also known as reference casting. Although primitive conversions and reference variable casting are similar, they still have their differences.
+
+A reference variable only refers to an object but doesn’t contain the object itself. Instead, a reference variable points out the object and its value space in memory, while a primitive variable stores simple values.
+
+Casting a reference variable doesn’t touch the object it refers to but only labels this object in another way. When the object is cast, it is simply changing its type from one type to another without affecting the object in any way.
